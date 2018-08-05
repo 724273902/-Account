@@ -1,0 +1,50 @@
+
+platform :ios, '8.0'
+inhibit_all_warnings!
+target '易教' do
+
+  # use_frameworks!
+
+  # Pods for 易教
+  pod 'DQAlertView', '~> 1.2.1'
+ pod 'WMPageController', '~>2.1.3'
+ # pod 'Realm'
+ #pod 'ReactiveCocoa', '~> 6.0.0'
+ pod 'UMengSocialCOM'
+ pod 'AFNetworking'
+ #pod 'BaiduMapKit'
+ pod 'SVProgressHUD'
+ #pod 'YYKit' ,  '~>1.0.7'
+ pod 'SDWebImage'
+ pod 'MJExtension'
+ pod 'WebViewJavascriptBridge'
+ pod 'MJRefresh'
+ pod 'FMDB'
+ pod 'Masonry'
+ pod 'SDAutoLayout'
+ pod 'UITableView+FDTemplateLayoutCell'
+ pod 'FDFullscreenPopGesture'
+ pod 'AMTagListView'
+ pod 'LTNavigationBar'
+ pod 'LFLiveKit', '~> 1.9.3'
+ #pod 'KissXML'
+ # pod 'pop'
+ pod 'BaiduMapKit'
+ pod 'MBProgressHUD'
+ pod 'IQKeyboardManager'
+ pod 'SDCycleScrollView'
+ pod 'Reachability'
+ pod 'YYImage'
+ pod 'YYText'
+ pod 'YYAsyncLayer'
+ pod 'YYCategories'
+ pod 'ZFPlayer'
+ pod 'TZImagePickerController'
+ pod 'M13ProgressSuite'
+ pod 'HMQRCodeScanner'
+
+end
+
+
+
+
